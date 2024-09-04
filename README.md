@@ -17,3 +17,4 @@ Imagine you're working on a big drawing with your friends. You each have your ow
 10. **Branch**: If you want to try something new on your drawing without changing the original, you start a new page in your scrapbook. That new page is a branch.
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHhteXJxZzcxYWFrcjk1cGpzdGt1dXlzNW85ZGY1NjduZDhjNXZtdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o6ZtdCeyBpLQ1J2aA/giphy.gif"/>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWdqbDBoa25tNGNsdHJ0b2VwaDJ2MXR2c2J2Z2I5bXRneTBsaWczbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VePtB3roynxfLYicuV/giphy.gif"/>
